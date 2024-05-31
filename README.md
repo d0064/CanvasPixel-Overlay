@@ -13,7 +13,7 @@ CanvasPixel Overlay is a userscript that enhances the canvaspixel.xyz website by
 
 To use CanvasPixel Overlay, you'll need a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/) (for Chrome) or [Greasemonkey](https://www.greasespot.net/) (for Firefox). Once you have the userscript manager installed, you can install the script from the following link:
 
-[Install CanvasPixel Overlay](https://greasyfork.org/en/scripts/496258-canvaspixel-picture-overlay)
+[Install CanvasPixel Overlay](https://github.com/d0064/CanvasPixel-Overlay/raw/main/canvaspixel%20picture%20overlay.user.js)
 
 ## Usage
 
@@ -23,4 +23,4 @@ To use CanvasPixel Overlay, you'll need a userscript manager such as [Tampermonk
 4. Enjoy the enhanced canvaspixel.xyz experience!
 
 ## Credits
-Credits to Woyken the original creator of the PixelPlanet overlay
+Credits to Woyken for the original PixelPlanet overlay code
